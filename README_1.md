@@ -32,29 +32,12 @@ From there, I used Python, which is a common programming language for working wi
 | Study hours vs. score | The mild upward trend between hours studied and performance. |
 | Attendance vs. score | That same kind of trend, but for how often a student actually showed up to class. |
 
-![Score distribution](score_distribution.png)
 
-![Test prep impact](test_prep_impact.png)
+## 💻 A Peek at the Code
 
-![Parental education impact](parental_education_impact.png)
+I uploaded five screenshots of the Python code used for this project. These screenshots provide additional evidence of my work and show how I created the analyses and visualizations.
 
-![Study hours vs score](study_hours_vs_score.png)
-
-![Attendance vs score](attendance_vs_score.png)
-
-## A peek at the code
-
-Here is the script that did the actual work, in case you want to see how it comes together.
-
-![Chart 1 code — score distribution](code_chart1_score_distribution.png)
-
-![Chart 2 code — test prep impact](code_chart2_test_prep_impact.png)
-
-![Chart 3 code — parental education impact](code_chart3_parental_education_impact.png)
-
-![Chart 4 code — study hours vs score](code_chart4_study_hours_vs_score.png)
-
-![Chart 5 code — attendance vs score](code_chart5_attendance_vs_score.png)
+📁 **To view the code, please open the files named `screenshot chart 1.PNG` through `screenshot chart 5.PNG` in this repository.**
 
 ## Why this matters
 
